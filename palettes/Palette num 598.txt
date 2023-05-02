@@ -1,0 +1,9 @@
+Palette id: 2880057
+num of votes: 240
+num of hearts: 0
+num of colors: 5
+D0DCCB
+D7C7BE
+B3C5BA
+88C3B5
+6D6168

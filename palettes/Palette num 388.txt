@@ -1,0 +1,9 @@
+Palette id: 1021947
+num of votes: 314
+num of hearts: 5
+num of colors: 5
+50232E
+F77C3E
+FABA66
+FCE185
+A2CCA5

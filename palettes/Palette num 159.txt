@@ -1,0 +1,9 @@
+Palette id: 2398684
+num of votes: 662
+num of hearts: 0
+num of colors: 5
+EC4401
+CC9B25
+13CD4A
+7B6ED6
+5E525C

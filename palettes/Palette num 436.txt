@@ -1,0 +1,9 @@
+Palette id: 1630898
+num of votes: 292
+num of hearts: 0
+num of colors: 5
+482344
+2B5166
+429867
+FAB243
+E02130

@@ -1,0 +1,9 @@
+Palette id: 5079
+num of votes: 596
+num of hearts: 0
+num of colors: 5
+F6D76B
+FF9036
+D6254D
+FF5475
+FDEBA9

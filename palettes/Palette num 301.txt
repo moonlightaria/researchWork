@@ -1,0 +1,9 @@
+Palette id: 34448
+num of votes: 386
+num of hearts: 0
+num of colors: 5
+020304
+541F14
+938172
+CC9E61
+626266

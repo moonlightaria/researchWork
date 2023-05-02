@@ -1,0 +1,9 @@
+Palette id: 525643
+num of votes: 621
+num of hearts: 4.5
+num of colors: 5
+322938
+89A194
+CFC89A
+CC883A
+A14016

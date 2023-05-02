@@ -1,0 +1,8 @@
+Palette id: 126030
+num of votes: 350
+num of hearts: 0
+num of colors: 4
+030C22
+20293F
+404749
+A9B0B3

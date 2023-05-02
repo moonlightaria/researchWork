@@ -1,0 +1,9 @@
+Palette id: 1309846
+num of votes: 645
+num of hearts: 0
+num of colors: 5
+041122
+259073
+7FDA89
+C8E98E
+E6F99D

@@ -1,0 +1,9 @@
+Palette id: 156114
+num of votes: 211
+num of hearts: 0
+num of colors: 5
+240F03
+4B2409
+BD7A22
+E79022
+DF621C

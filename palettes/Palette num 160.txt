@@ -1,0 +1,8 @@
+Palette id: 171
+num of votes: 649
+num of hearts: 0
+num of colors: 4
+E65540
+F8ECC2
+65A8A6
+79896D

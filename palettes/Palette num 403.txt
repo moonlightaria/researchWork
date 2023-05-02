@@ -1,0 +1,9 @@
+Palette id: 90440
+num of votes: 307
+num of hearts: 5
+num of colors: 5
+F1EBEB
+EEE8E8
+CACACA
+24C0EB
+5CCEEE

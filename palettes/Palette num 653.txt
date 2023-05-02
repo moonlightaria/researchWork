@@ -1,0 +1,9 @@
+Palette id: 196207
+num of votes: 228
+num of hearts: 0
+num of colors: 5
+EF7270
+EE9F80
+F3ECBE
+CDAF7B
+59291B

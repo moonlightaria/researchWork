@@ -1,0 +1,9 @@
+Palette id: 120003
+num of votes: 199
+num of hearts: 0
+num of colors: 5
+C5F7F0
+A9C2C9
+8E8CA3
+72577C
+562155

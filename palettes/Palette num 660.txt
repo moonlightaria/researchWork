@@ -1,0 +1,9 @@
+Palette id: 1865314
+num of votes: 228
+num of hearts: 0
+num of colors: 5
+D1DC5A
+E0F7E0
+77F2DE
+6AC5CB
+45444E

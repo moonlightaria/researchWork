@@ -1,0 +1,9 @@
+Palette id: 401946
+num of votes: 1168
+num of hearts: 0
+num of colors: 5
+1C0113
+6B0103
+A30006
+C21A01
+F03C02

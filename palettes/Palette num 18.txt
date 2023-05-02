@@ -1,0 +1,9 @@
+Palette id: 1098589
+num of votes: 3023
+num of hearts: 4.5
+num of colors: 5
+99B898
+FECEA8
+FF847C
+E84A5F
+2A363B

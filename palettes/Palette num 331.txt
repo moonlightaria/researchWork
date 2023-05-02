@@ -1,0 +1,9 @@
+Palette id: 501513
+num of votes: 348
+num of hearts: 5
+num of colors: 5
+C9B849
+C96823
+BE3100
+6F0B00
+241714

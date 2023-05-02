@@ -1,0 +1,9 @@
+Palette id: 41154
+num of votes: 392
+num of hearts: 0
+num of colors: 5
+00CCBE
+09A6A3
+9DBFAF
+EDEBC9
+FCF9D8

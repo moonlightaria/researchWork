@@ -1,0 +1,9 @@
+Palette id: 1500484
+num of votes: 189
+num of hearts: 0
+num of colors: 5
+545454
+7B8A84
+8CBFAF
+EDE7D5
+B7CC18

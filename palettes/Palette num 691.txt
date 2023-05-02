@@ -1,0 +1,9 @@
+Palette id: 1257821
+num of votes: 222
+num of hearts: 0
+num of colors: 5
+FFFFFF
+5E9188
+3E5954
+253342
+232226

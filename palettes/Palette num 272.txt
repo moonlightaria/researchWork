@@ -1,0 +1,9 @@
+Palette id: 16897
+num of votes: 418
+num of hearts: 5
+num of colors: 5
+AADEAD
+BBDEAD
+CCDEAD
+DDDEAD
+EEDEAD

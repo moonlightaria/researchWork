@@ -1,0 +1,9 @@
+Palette id: 60647
+num of votes: 430
+num of hearts: 5
+num of colors: 5
+FC580C
+FC6B0A
+F8872E
+FFA927
+FDCA49

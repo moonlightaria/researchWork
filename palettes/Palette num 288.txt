@@ -1,0 +1,9 @@
+Palette id: 60028
+num of votes: 397
+num of hearts: 0
+num of colors: 5
+001848
+301860
+483078
+604878
+906090

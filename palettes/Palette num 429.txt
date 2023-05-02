@@ -1,0 +1,9 @@
+Palette id: 640209
+num of votes: 297
+num of hearts: 0
+num of colors: 5
+454545
+743455
+A22365
+D11174
+FF0084

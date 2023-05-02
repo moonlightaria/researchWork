@@ -1,0 +1,9 @@
+Palette id: 896737
+num of votes: 322
+num of hearts: 5
+num of colors: 5
+FFAB03
+FC7F03
+FC3903
+D1024E
+A6026C

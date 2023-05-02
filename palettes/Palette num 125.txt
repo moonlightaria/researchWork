@@ -1,0 +1,9 @@
+Palette id: 772970
+num of votes: 789
+num of hearts: 5
+num of colors: 5
+B5AC01
+ECBA09
+E86E1C
+D41E45
+1B1521

@@ -1,0 +1,9 @@
+Palette id: 784112
+num of votes: 252
+num of hearts: 0
+num of colors: 5
+551BB3
+268FBE
+2CB8B2
+3DDB8F
+A9F04D

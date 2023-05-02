@@ -1,0 +1,9 @@
+Palette id: 1630424
+num of votes: 478
+num of hearts: 0
+num of colors: 5
+CDDBC2
+F7E4C6
+FB9274
+F5565B
+875346

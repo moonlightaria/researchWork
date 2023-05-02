@@ -1,0 +1,9 @@
+Palette id: 778713
+num of votes: 1397
+num of hearts: 5
+num of colors: 5
+FC354C
+29221F
+13747D
+0ABFBC
+FCF7C5

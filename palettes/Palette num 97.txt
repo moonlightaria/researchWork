@@ -1,0 +1,9 @@
+Palette id: 603439
+num of votes: 957
+num of hearts: 5
+num of colors: 5
+30261C
+403831
+36544F
+1F5F61
+0B8185

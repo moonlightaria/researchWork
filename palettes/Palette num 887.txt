@@ -1,0 +1,9 @@
+Palette id: 400732
+num of votes: 194
+num of hearts: 0
+num of colors: 5
+F1F7CD
+D3F7CD
+B5F7CD
+403A26
+81876C

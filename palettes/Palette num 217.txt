@@ -1,0 +1,9 @@
+Palette id: 376393
+num of votes: 502
+num of hearts: 5
+num of colors: 5
+063940
+195E63
+3E838C
+8EBDB6
+ECE1C3

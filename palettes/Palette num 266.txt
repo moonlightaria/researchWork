@@ -1,0 +1,9 @@
+Palette id: 55400
+num of votes: 427
+num of hearts: 0
+num of colors: 5
+FF0092
+FFCA1B
+B6FF00
+228DFF
+BA01FF

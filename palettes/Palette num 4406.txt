@@ -1,0 +1,9 @@
+Palette id: 401792
+num of votes: 191
+num of hearts: 5
+num of colors: 5
+090F13
+171F25
+752E2B
+C90A02
+F2EAB7

@@ -1,0 +1,9 @@
+Palette id: 2006045
+num of votes: 222
+num of hearts: 0
+num of colors: 5
+93BA85
+BDA372
+F49859
+FF494B
+5E363F

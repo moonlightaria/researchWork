@@ -1,0 +1,9 @@
+Palette id: 522000
+num of votes: 1983
+num of hearts: 5
+num of colors: 5
+BCBDAC
+CFBE27
+F27435
+F02475
+3B2D38

@@ -1,0 +1,9 @@
+Palette id: 408962
+num of votes: 465
+num of hearts: 5
+num of colors: 5
+574C41
+E36B6B
+E3A56B
+E3C77B
+96875A

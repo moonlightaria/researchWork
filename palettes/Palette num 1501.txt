@@ -1,0 +1,9 @@
+Palette id: 1858096
+num of votes: 192
+num of hearts: 0
+num of colors: 5
+FEA304
+909320
+125A44
+37192C
+220315

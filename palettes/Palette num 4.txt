@@ -1,0 +1,9 @@
+Palette id: 1930
+num of votes: 7023
+num of hearts: 3.5
+num of colors: 5
+556270
+4ECDC4
+C7F464
+FF6B6B
+C44D58

@@ -1,0 +1,8 @@
+Palette id: 6
+num of votes: 201
+num of hearts: 5
+num of colors: 4
+530D0D
+F5FFC0
+1A1202
+342A14

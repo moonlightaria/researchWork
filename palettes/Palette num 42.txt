@@ -1,0 +1,9 @@
+Palette id: 301154
+num of votes: 1539
+num of hearts: 5
+num of colors: 5
+300030
+480048
+601848
+C04848
+F07241

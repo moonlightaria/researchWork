@@ -1,0 +1,9 @@
+Palette id: 716114
+num of votes: 801
+num of hearts: 5
+num of colors: 5
+793A57
+4D3339
+8C873E
+D1C5A5
+A38A5F

@@ -1,0 +1,9 @@
+Palette id: 1949697
+num of votes: 232
+num of hearts: 0
+num of colors: 5
+E4F3D8
+AFCACC
+FFA02E
+E80560
+331D4A

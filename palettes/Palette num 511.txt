@@ -1,0 +1,9 @@
+Palette id: 138804
+num of votes: 260
+num of hearts: 0
+num of colors: 5
+0CCABA
+E3F5B7
+E6AE00
+D46700
+9E3F00

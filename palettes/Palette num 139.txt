@@ -1,0 +1,9 @@
+Palette id: 700443
+num of votes: 749
+num of hearts: 5
+num of colors: 5
+E5EAA4
+A8C4A2
+69A5A4
+616382
+66245B

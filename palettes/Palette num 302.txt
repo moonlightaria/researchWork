@@ -1,0 +1,9 @@
+Palette id: 2079216
+num of votes: 385
+num of hearts: 0
+num of colors: 5
+71DBD2
+EEFFDB
+ADE4B5
+D0EAA3
+FFF18C

@@ -1,0 +1,14 @@
+Palette id: 0
+num of votes: 0
+num of hearts: 0
+num of colors: 10
+C0E5E0
+0CB5E0
+054C8E
+0E101D
+F2EC1A
+A1CD3C
+1B9144
+EB1C4A
+7A1243
+220E40

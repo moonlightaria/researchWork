@@ -1,0 +1,9 @@
+Palette id: 2021976
+num of votes: 222
+num of hearts: 0
+num of colors: 5
+FFF7BC
+FEE78A
+F8A348
+E15244
+3A7B50

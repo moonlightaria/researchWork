@@ -1,0 +1,9 @@
+Palette id: 520982
+num of votes: 304
+num of hearts: 0
+num of colors: 5
+AB505E
+D9A071
+CFC88F
+A5B090
+607873

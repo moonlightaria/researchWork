@@ -1,0 +1,9 @@
+Palette id: 3224940
+num of votes: 273
+num of hearts: 0
+num of colors: 5
+FDF4B0
+A4DCB9
+5BCEBF
+32B9BE
+2E97B7

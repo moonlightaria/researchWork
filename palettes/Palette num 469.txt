@@ -1,0 +1,9 @@
+Palette id: 1230619
+num of votes: 278
+num of hearts: 0
+num of colors: 5
+BDBF90
+35352B
+E7E9C4
+EC6C2B
+FEAE4B

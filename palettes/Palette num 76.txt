@@ -1,0 +1,9 @@
+Palette id: 56122
+num of votes: 1080
+num of hearts: 0
+num of colors: 5
+FF003C
+FF8A00
+FABE28
+88C100
+00C176

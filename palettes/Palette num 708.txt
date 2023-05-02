@@ -1,0 +1,9 @@
+Palette id: 85232
+num of votes: 219
+num of hearts: 0
+num of colors: 5
+000000
+7890A8
+304878
+181848
+F0A818

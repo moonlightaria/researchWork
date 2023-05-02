@@ -1,0 +1,9 @@
+Palette id: 55357
+num of votes: 255
+num of hearts: 0
+num of colors: 5
+1A2B2B
+332222
+4D1A1A
+661111
+800909

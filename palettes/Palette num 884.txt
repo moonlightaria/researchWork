@@ -1,0 +1,9 @@
+Palette id: 1615054
+num of votes: 195
+num of hearts: 0
+num of colors: 5
+412973
+753979
+B1476D
+EB9064
+BED9C8

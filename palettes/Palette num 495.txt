@@ -1,0 +1,7 @@
+Palette id: 386021
+num of votes: 265
+num of hearts: 0
+num of colors: 3
+604830
+F0C0C0
+F0F0D8

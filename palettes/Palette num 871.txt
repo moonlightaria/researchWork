@@ -1,0 +1,9 @@
+Palette id: 1402295
+num of votes: 196
+num of hearts: 0
+num of colors: 5
+C7003F
+F90050
+F96A00
+FAAB00
+DAF204

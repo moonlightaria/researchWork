@@ -1,0 +1,9 @@
+Palette id: 787312
+num of votes: 229
+num of hearts: 0
+num of colors: 5
+3D2304
+7F6000
+DEB069
+C41026
+3D0604
